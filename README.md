@@ -25,4 +25,4 @@ I will analyze the data using NLP and produce an output csv file to compare agai
 
 ![Confusion Matrix](Final_CM.png)
 
-![Kaggle](Kaggle_Competition_Score.png)
+![Kaggle](Kaggle_Competition_score.png)
